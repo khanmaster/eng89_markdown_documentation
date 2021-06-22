@@ -27,4 +27,4 @@ print("hello world")
 - `git remote add origin git@github.com:khanmaster/eng89_markdown_documentation.git`
 **Setting the branch to -M main and adding the remote is only to be done first time**
   
-#### Moving onto Linux basics
+[MarkDowns Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)

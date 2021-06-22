@@ -15,7 +15,7 @@ print("hello world")
 
 #### To initialise a repo using pycharm
 - `git init`
-- To check what added to be sent to git hub
+- To check what's added to be sent to git hub
 - `git status` to ensure only required files are added to be sent
 - To add `git add .` or `git add name_of_the_file`
 - To save changes `git commit -m "logical message"`
